@@ -1,0 +1,15 @@
+var num1 = 1;
+var num2 = 2;
+console.log(num1 + num2);
+var number1 = 5;
+var number2 = 7;
+console.log(num1 - num2);
+var no1 = 4;
+var no2 = 4;
+console.log(no1 * no2);
+var serial1 = 8;
+var serial2 = 10;
+console.log(serial1 % serial2);
+var so1 = 10;
+var so2 = 5;
+console.log(so1 / so2);
